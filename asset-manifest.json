@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://romil-rc.github.io/csb-1vsvox/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://romil-rc.github.io/csb-1vsvox/static/js/main.18496e10.chunk.js",
+    "main.js.map": "https://romil-rc.github.io/csb-1vsvox/static/js/main.18496e10.chunk.js.map",
+    "runtime-main.js": "https://romil-rc.github.io/csb-1vsvox/static/js/runtime-main.ea0896b1.js",
+    "runtime-main.js.map": "https://romil-rc.github.io/csb-1vsvox/static/js/runtime-main.ea0896b1.js.map",
+    "static/js/2.aeadd4d3.chunk.js": "https://romil-rc.github.io/csb-1vsvox/static/js/2.aeadd4d3.chunk.js",
+    "static/js/2.aeadd4d3.chunk.js.map": "https://romil-rc.github.io/csb-1vsvox/static/js/2.aeadd4d3.chunk.js.map",
+    "index.html": "https://romil-rc.github.io/csb-1vsvox/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://romil-rc.github.io/csb-1vsvox/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.aeadd4d3.chunk.js.LICENSE.txt": "https://romil-rc.github.io/csb-1vsvox/static/js/2.aeadd4d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea0896b1.js",
+    "static/js/2.aeadd4d3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.18496e10.chunk.js"
+  ]
+}
